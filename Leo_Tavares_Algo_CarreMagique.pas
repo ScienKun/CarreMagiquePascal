@@ -192,7 +192,6 @@ end;
 { Partie main du programme }
 
 var
-	i, j : integer;
 	CarreMagique : Matrice;
 
 begin
